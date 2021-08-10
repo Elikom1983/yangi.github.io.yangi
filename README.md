@@ -1,1 +1,1 @@
-#elikom1983.github.io.yangis
+elikom1983.github.io.yangis
